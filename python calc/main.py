@@ -1,24 +1,4 @@
 from tkinter import *
-# singup = Tk()
-# singup.geometry("1000x500")
-# singup.title("seshy twoy")
-
-# is_cehcked =  IntVar()
-# checkbox1 = Checkbutton(singup, variable=is_cehcked,text="EWUITYYUTYT").grid(row=0,column=0)
-
-# is_cehcked2 =  IntVar()
-# checkbox1 = Checkbutton(singup, variable=is_cehcked2,text="EWUITYYUTYT").grid(row=0,column=1)
-
-# is_cehcked3 =  IntVar()
-# checkbox1 = Checkbutton(singup, variable=is_cehcked3,text="EWUITYYUTYT").grid(row=2,column=0)
-
-# def showChecked ():
-#     print(male.get())
-
-# male = IntVar()
-# malebox = Radiobutton(singup,variable=male, text="male", value=1, command=showChecked).grid(row=3,column=0)
-# girlbox = Radiobutton(singup,variable=male, text="girl", value=2 ,command=showChecked).grid(row=4,column=0)
-# singup.mainloop()
 
 root = Tk()
 root.geometry("400x500")
