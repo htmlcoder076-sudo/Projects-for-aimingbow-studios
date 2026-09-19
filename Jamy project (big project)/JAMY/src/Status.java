@@ -1,0 +1,6 @@
+enum Status{
+	QUEUED,
+	IN_PROGRESS,
+	COMPLETED,
+	CANCELLED
+}
